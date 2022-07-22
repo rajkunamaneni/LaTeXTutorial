@@ -1,1 +1,1 @@
-# Get Started With LaTeX
+> :warning: **This Project is a modified school project** and thus no students of CSE 185s should be looking at my source code. Feel free to view the pdf for ideas. 
