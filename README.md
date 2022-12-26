@@ -2,7 +2,8 @@
 
 ## Program Description
 
-This document gives the user the essential details in understanding and learning LaTeX. These tips are some that I found important during my time in UCSC. 
+This document is a quick introduction to the essential details of understanding and learning LaTeX. View the **src** folder for the LaTeX document. 
+View [LaTeX Tutorial](https://github.com/rajkunamaneni/LaTeXTutorial/blob/main/src/LaTeXTutorial.pdf). 
 
 ## Running
 
